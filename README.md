@@ -14,7 +14,7 @@ Before methods uploads the array it was called from, after specifying the locati
 * then uploads these files to the specified array and passes it to the array of the called class.
 
 ### Authors
-//ki készítette
+Magyar Zoltán
 
 ### Contact
-//elérhetőségek
+magyarz95@gmail.com
